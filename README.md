@@ -140,5 +140,5 @@ Skills: `Red Team Operations` `C2 Infrastructure` `OPSEC` `Initial Access` `Pers
 ![Profile Views](https://komarev.com/ghpvc/?username=Fallenangel666-htb&style=flat&labelolor=05122A&color=05122A)
 
 ------
-Credit: [Fallenangel666-htb](https://github.com/Fallenangel666-htb) \
+Credit: [amangupta143](https://github.com/amangupta143) \
 Last Edited on: 28/08/2025
