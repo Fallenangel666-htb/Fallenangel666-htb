@@ -43,6 +43,7 @@
 			<img alt="BloodHound" src="https://img.shields.io/badge/BloodHound-05122A?style=flat&logo=bloodhound">
 			<img alt="Hashcat" src="https://img.shields.io/badge/Hashcat-05122A?style=flat&logo=hashcat">
 			<img alt="NetExec" src="https://img.shields.io/badge/NetExec-05122A?style=flat">
+			<img alt="Burp Suite" src="https://img.shields.io/badge/Burp%20Suite-05122A?style=flat&logo=burpsuite">
 		</kbd>
 	</p>
 	<p>
