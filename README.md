@@ -1,8 +1,8 @@
 <h1>Hi there 👋, I'm FallenAngel666.</h1>
 
 <!-- Header Links -->
-[![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-green?style=flat&logo=appveyor&logoColor=white)](https://app.hackthebox.com/users/1728618)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FallenAngel666)
+[![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-green?style=flat&logo=appveyor&logoColor=white)](https://app.hackthebox.com/profile/1728618)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Fallenangel666-htb)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marquina-martin-93a087364/)
 
 
